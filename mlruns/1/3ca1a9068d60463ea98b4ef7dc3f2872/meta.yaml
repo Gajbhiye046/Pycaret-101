@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Pycaret%20101/mlruns/1/3ca1a9068d60463ea98b4ef7dc3f2872/artifacts
+end_time: 1627067024519
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 3ca1a9068d60463ea98b4ef7dc3f2872
+run_uuid: 3ca1a9068d60463ea98b4ef7dc3f2872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627067024111
+status: 3
+tags: []
+user_id: HP
